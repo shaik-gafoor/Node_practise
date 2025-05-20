@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 50px;
+  width: 100%;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  width: 100%;
+}
